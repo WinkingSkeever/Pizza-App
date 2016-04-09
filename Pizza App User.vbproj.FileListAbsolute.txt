@@ -1,0 +1,25 @@
+C:\Users\The plague x\AppData\Local\Temporary Projects\Pizza App User\bin\Debug\Pizza App User.exe.config
+C:\Users\The plague x\AppData\Local\Temporary Projects\Pizza App User\bin\Debug\Pizza App User.exe
+C:\Users\The plague x\AppData\Local\Temporary Projects\Pizza App User\bin\Debug\Pizza App User.pdb
+C:\Users\The plague x\AppData\Local\Temporary Projects\Pizza App User\bin\Debug\Pizza App User.xml
+C:\Users\The plague x\AppData\Local\Temporary Projects\Pizza App User\obj\Debug\Pizza App User.vbprojResolveAssemblyReference.cache
+C:\Users\The plague x\AppData\Local\Temporary Projects\Pizza App User\obj\Debug\Pizza_App_User.Form1.resources
+C:\Users\The plague x\AppData\Local\Temporary Projects\Pizza App User\obj\Debug\Pizza_App_User.Resources.resources
+C:\Users\The plague x\AppData\Local\Temporary Projects\Pizza App User\obj\Debug\Pizza App User.vbproj.GenerateResource.Cache
+C:\Users\The plague x\AppData\Local\Temporary Projects\Pizza App User\obj\Debug\Pizza App User.exe
+C:\Users\The plague x\AppData\Local\Temporary Projects\Pizza App User\obj\Debug\Pizza App User.xml
+C:\Users\The plague x\AppData\Local\Temporary Projects\Pizza App User\obj\Debug\Pizza App User.pdb
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\bin\Debug\Pizza App User.exe.config
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\obj\Debug\Pizza App User.exe
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\obj\Debug\Pizza App User.xml
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\obj\Debug\Pizza App User.pdb
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\bin\Debug\Pizza App User.exe
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\bin\Debug\Pizza App User.pdb
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\bin\Debug\Pizza App User.xml
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\obj\Debug\Pizza App User.vbprojResolveAssemblyReference.cache
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\obj\Debug\Pizza_App_User.Resources.resources
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\obj\Debug\Pizza App User.vbproj.GenerateResource.Cache
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\obj\Debug\Pizza_App_User.OrderPizzaForm.resources
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\obj\Debug\Pizza_App_User.LogisticsForm.resources
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\obj\Debug\Pizza_App_User.SpecialsForm.resources
+C:\Users\The plague x\Desktop\FSCJ\Spring2016\COP1000 Programming\Pizza App User\Pizza App User\obj\Debug\Pizza_App_User.UserForm.resources
